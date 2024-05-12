@@ -1,9 +1,10 @@
 {
-  "name": "ashi_currency_convertor",
-  "version": "1.0.0",
+  "name": "currency_convertor_by_ashi",
+  "version": "1.0.1",
   "description": "",
   "main": "currency.js",
   "type": "module",
+  "bin": "currency.js",
   "publishConfig": {
     "access": "public"
   },
